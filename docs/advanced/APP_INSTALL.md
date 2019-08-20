@@ -9,7 +9,7 @@ App installation can be done a variety of ways: either through a file/directory 
 
 * [Volume-mount app directory](#volume-mount-app-directory)
 * [Download via URL](#download-via-url)
-* [Multiple apps](@multiple-apps)
+* [Multiple apps](#multiple-apps)
 * [Apps in distributed environments](#apps-in-distributed-environments)
 
 ## Volume-mount app directory
